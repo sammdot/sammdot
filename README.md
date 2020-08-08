@@ -6,8 +6,8 @@ I am also an alum of the [Engineering Residency](http://g.co/engresidency)
 program, and have previously worked on the Google Play Developer API.
 
 I am currently based in San Jos&eacute;, California, and (pre-COVID-19)
-work out of the Google campus in Sunnyvale, CA, but I was originally
-from Markham, ON and studied Computer Science at the
+work out of the Google campus in Sunnyvale, California, but I was
+originally from Markham, Ontario and studied Computer Science at the
 [University of Toronto](https://utoronto.ca), where I previously worked
 as a teaching assistant.
 
